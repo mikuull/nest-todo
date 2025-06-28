@@ -71,4 +71,10 @@ pnpm run dev
 
 ---
 
+## 🤖 TODO:
+
+- [ ] Add user authentication 
+- [ ] Make tasks align to specific users
+
+
 ### 💫 Feel free to reach out if you have any questions or issues!
